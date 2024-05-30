@@ -11,3 +11,6 @@ SpaceX's Falcon 9 rocket launches are advertised to save cost by 60% if SpaceX c
  *   Build interactive map with Folium and interactive dashboard with Plotly Dash to explore the importance of launch site and payload mass
  *   Build and evaluate four classification models to predict landing outcomes  
 
+
+   
+***This is the capstone project of IBM's professional certificate of data science.***

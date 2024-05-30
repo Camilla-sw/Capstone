@@ -12,5 +12,5 @@ SpaceX's Falcon 9 rocket launches are advertised to save cost by 60% if SpaceX c
  *   Build and evaluate four classification models to predict landing outcomes  
 
 
-<span style="color:blue">some *blue* text</span>.
+   
 ***<span style="color:limegreen;">This is the capstone project of IBM's professional certificate of data science.***</span>

@@ -1,7 +1,7 @@
 ## Predicting Outcomes of Rocket Launches  
 
 This research project aims to predict if the Falcon 9 first stage will land successfully.   
-SpaceX's Falcon 9 rocket launches are advertised to save cost by 60% because SpaceX can reuse the first stage. Therefore, if we can determine if the first stage will land, we can determine the cost of a launch. 
+SpaceX's Falcon 9 rocket launches are advertised to save cost by 60% if SpaceX can reuse the first stage. Determining the outcome of the first stage lauch will be important for evaluating costs. 
 
 
 ### Project Contents:  

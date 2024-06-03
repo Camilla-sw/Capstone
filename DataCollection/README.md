@@ -9,14 +9,14 @@ The response will be in the form of a JSON, specifically a list of JSON objects,
 
 Convert this JSON to a dataframe.   
 
-Clean the dataframe.  
+Clean the dataframe.   
 
 Get additional information and merge with existing data with ID number for each launch.  
 
 Additional data Cleaning:  
-* duplicates
+* manage duplicates
 * subset/filter data needed
-* deal with missing values
+* manage missing values
 
 
 

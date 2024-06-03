@@ -11,7 +11,7 @@ Convert this JSON to a dataframe.
 
 Clean the dataframe.  
 
-Get additional information for each lauch with their ID number.  
+Get additional information and merge with existing data with ID number for each launch.  
 
 Additional data Cleaning:  
 * duplicates

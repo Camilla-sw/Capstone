@@ -1,16 +1,22 @@
 
 
-**1. Collecting SpaceX launch data from the SpaceX REST API.**  
-The SpaceX REST API endpoints, or URL:   
+**1. Collecting SpaceX launch data from the SpaceX REST API.**    
+
+Use a get request with the requests library to obtain the launch data from SpaceX REST API endpoints, or URL:   
 api.spacexdata.com/v4/launches/past.   
 
-To get the data from the API, perform a get request with the requests library to obtain the launch data. 
-This result can be viewed by calling the .json() method. 
-Since we are using an API, the response will be in the form of a JSON, specifically a list of JSON objects, each representing a launch.   
+The response will be in the form of a JSON, specifically a list of JSON objects, each representing a launch.   
 
-To convert this JSON to a dataframe, we can use the json_normalize function. 
-This function will “normalize” the structured json data into a flat table.   
-data = pd.json_normalize(response.json())
+Convert this JSON to a dataframe.   
+
+Clean the dataframe.  
+
+Get additional information for each lauch with their ID number.  
+
+Additional data Cleaning:  
+* duplicates
+* subset/filter data needed
+* deal with missing values
 
 
 

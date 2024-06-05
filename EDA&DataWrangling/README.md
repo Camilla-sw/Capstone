@@ -2,7 +2,7 @@
 **1. Data Wrangling**
 
 - Initial EDA 
-- Create Binary Outcome Feature based on current feature 'Outcome' with 7 landing outcome categories.
+- Create Binary Outcome Feature: code outcome feature for classification based on current feature 'Outcome' with 7 landing outcome categories.
 
 </br>
 

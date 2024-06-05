@@ -14,3 +14,5 @@
 </br>
 
 **3. Data Visualization**
+- Visualize potential relationship between key variables.
+- Feature Engineering.

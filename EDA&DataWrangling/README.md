@@ -7,7 +7,8 @@
 </br>
 
 **2. EDA with SQL**
-
+- Basic exploration of dataset with SQL
+- Executes SQL queries to uncover specific facts about the launch record dataset.
 
 
 </br>

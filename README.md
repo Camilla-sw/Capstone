@@ -10,7 +10,7 @@ SpaceX's Falcon 9 rocket launches are advertised to save cost by 60% if SpaceX c
  *  Explore data with data visualization as well as SQL
  *  Build interactive map with Folium to explore features of launch sites
  *  Build interactive dashboard to explore the importance of launch site and payload mass in impacting mission outcome
- *  Build and evaluate four classification models to predict landing outcome  
+ *  Build and evaluate four machine learnin classification models to predict landing outcome  
 
 
    
